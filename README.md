@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤠 I’m a PhD student in Electronic.
-- 🔭 I am interested in all research related to machine learning.
+- 🤠 I'm a PhD student in Electronic.
+- 🔭 I'm interested in all research related to machine learning.
 - 😖 Unfortunately, my programming skills are not very strong.
 - 💻 I will spend as much time as possible practicing programming.
 - 🐱 Oh right, I also have a cute American Shorthair cat!
