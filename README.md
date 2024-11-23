@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤠 I’m a PhD student in Electronic.
+- 🔭 My research interests include nonparametric Bayesian methods, reinforcement learning, and other areas related to machine learning.
+- 😖 Unfortunately, my programming skills are not very strong.
+- 💻 I will spend as much time as possible practicing programming.
+- 🐱 Oh right, I also have a cute American Shorthair cat!
