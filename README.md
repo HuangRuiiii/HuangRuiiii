@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🤠 I'm a PhD student in Electronic.
 - 🔭 I'm interested in all research related to machine learning.
 - 💻 Read as many papers as possible and write as much code as possible.
-- 🐱 Oh right, I also have a cute American Shorthair cat!
+- 🐱 I have a cute American Shorthair cat!
